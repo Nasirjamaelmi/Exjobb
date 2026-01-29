@@ -100,11 +100,3 @@ York POS CHUNK I-LOC
 To share or version control models:
 - Use [Hugging Face Hub](https://huggingface.co/models) for model hosting
 - Or use [Git LFS](https://git-lfs.github.com/) for large file storage
-
-## License
-
-[Add your license here]
-
-## Author
-
-[Add your name here]
