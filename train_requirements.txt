@@ -1,0 +1,6 @@
+transformers>=4.30.0
+datasets
+evaluate
+torch
+seqeval
+accelerate

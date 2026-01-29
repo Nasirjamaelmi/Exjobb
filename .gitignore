@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Model files and outputs - these are too large for GitHub
+ner-output/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Checkpoints
+checkpoint-*/
+checkpoints/
+
+# Large data files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
